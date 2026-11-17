@@ -1,0 +1,92 @@
+[
+  {
+    "name": "test_prepare_text_valid",
+    "function": "test_prepare_text_valid",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_prepare_text_no_string",
+    "function": "test_prepare_text_no_string",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_prepare_text_empty",
+    "function": "test_prepare_text_empty",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_prepare_text_invalid_chars",
+    "function": "test_prepare_text_invalid_chars",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_split_blocks_valid",
+    "function": "test_split_blocks_valid",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_split_blocks_padding",
+    "function": "test_split_blocks_padding",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_split_blocks_length_no_int",
+    "function": "test_split_blocks_length_no_int",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_split_blocks_length_too_small",
+    "function": "test_split_blocks_length_too_small",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_split_blocks_length_too_big",
+    "function": "test_split_blocks_length_too_big",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_rotate_right_valid",
+    "function": "test_rotate_right_valid",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_rotate_right_different_lengths",
+    "function": "test_rotate_right_different_lengths",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_encrypt_valid",
+    "function": "test_encrypt_valid",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_decrypt_valid",
+    "function": "test_decrypt_valid",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_decrypt_wrong_length",
+    "function": "test_decrypt_wrong_length",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_encrypt_decrypt",
+    "function": "test_encrypt_decrypt",
+    "timeout": 10,
+    "points": 1
+  }
+]
